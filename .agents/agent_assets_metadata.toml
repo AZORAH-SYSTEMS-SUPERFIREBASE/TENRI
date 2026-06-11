@@ -1,0 +1,26 @@
+uploads = []
+outputs = []
+
+[[generated]]
+id = "jOB4DmG7WVronPOtCNgL8"
+uri = "file://artifacts/glowpolls/public/images/allan.png"
+type = "image"
+title = "Allan Njue portrait"
+
+[[generated]]
+id = "gRHY6_jy6o08wHeCjSSnZ"
+uri = "file://artifacts/glowpolls/public/images/kingsley.png"
+type = "image"
+title = "Kingsley Munene portrait"
+
+[[generated]]
+id = "FDZxi2fuuesG262YBbhqQ"
+uri = "file://artifacts/glowpolls/public/images/sally.png"
+type = "image"
+title = "Sally Mwende portrait"
+
+[[generated]]
+id = "j2-GNir0n-_GfUPwt5LbQ"
+uri = "file://artifacts/glowpolls/public/images/precious.png"
+type = "image"
+title = "Precious Nevina portrait"
